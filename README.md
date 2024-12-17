@@ -15,8 +15,9 @@ Manovich planteja que l'hibridació és el procés de fusió entre mitjans tradi
 
 ## Re-descobrint l'hibridació: El còmic
 
-
-![giphy](https://github.com/user-attachments/assets/03309944-0bdb-48a2-ae29-5e7d39113777)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/03309944-0bdb-48a2-ae29-5e7d39113777" alt="animated" />
+</p>
 
 
 
